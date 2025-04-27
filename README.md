@@ -1,7 +1,11 @@
-# Simple Calculator
+## How to Use
 
-Calculator with area, volume, condition checks etc.
-Built using Python modules like tkinter.
+1. Run the application:
+   ```
+   python calculator_gui.py
+   ```
 
-**Maintainer in charge**: Nishtha https://github.com/nishtha981
-
+2. The application provides three calculators:
+   - Area Calculator (for 2D shapes)
+   - Volume Calculator (for 3D shapes)
+   - Condition Checker (for mathematical relationships)
